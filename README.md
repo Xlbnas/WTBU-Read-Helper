@@ -2,8 +2,9 @@
 # 武汉工商学院题库辅助脚本 📚
 
 ![Static Badge](https://img.shields.io/badge/Tampermonkey-4.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Static Badge](https://img.shields.io/badge/Version-1.1.0-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 本脚本为武汉工商学院在线学习平台提供辅助功能，​**严禁用于任何形式的作弊行为**。
 
