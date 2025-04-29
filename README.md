@@ -1,9 +1,9 @@
 # WTBU-Read-Helper
 # 武汉工商学院题库辅助脚本 📚
 
-[Tampermonkey](https://img.shields.io/badge/Tampermonkey-4.8+-blue.svg)
-[License](https://img.shields.io/badge/License-MIT-green.svg)
-[Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-4.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/Version-0.1.0-orange.svg)
 
 本脚本为武汉工商学院在线学习平台提供辅助功能，​**严禁用于任何形式的作弊行为**。
 
